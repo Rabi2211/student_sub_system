@@ -8,9 +8,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | [Reabetswe Mashigo] |
-| **Student / ID Number** | [0207295690086] |
-| **Date** | [29 07 2002] |
+| **Student Name** | Reabetswe Mashigo |
+| **Student / ID Number** | 0207295690086 |
+| **Date** | 29 07 2002 |
 | **Assessor** | [Assessor's Name] |
 | **Assessor Date** | [DD Month YYYY] |
 | **Assessor Signature** | [To be completed by assessor] |
