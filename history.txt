@@ -1,0 +1,19 @@
+  1  ssh-keygen -t ed25519 -C "reabetswemashigo2@gmail.com"
+    2  ls
+    3  cd ~
+    4  ls
+    5  ssh-add ~/.ssh id_ed25519.pub
+    6  ssh man
+    7  ssh
+    8  cd Desktop
+    9  ls
+   10  cd student_sub_system
+   11  ls
+   12  code .
+   13  touch index.html
+   14  touch about.html
+   15  touch history.txt
+   16  ls
+   17  git add .
+   18  git commit -m "created files index.html, about.html and history.txt"
+   19  history
